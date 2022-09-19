@@ -1,0 +1,253 @@
+Gender,Body_Part,Age,Num_falls
+Male,Head,65-69,1564
+Male,Head,70-74,2172
+Male,Head,75-79,2606
+Male,Head,80-84,3305
+Male,Head,85-89,3526
+Male,Head,90-94,2365
+Male,Head,95+,725
+Male,Neck,65-69,123
+Male,Neck,70-74,165
+Male,Neck,75-79,198
+Male,Neck,80-84,201
+Male,Neck,85-89,191
+Male,Neck,90-94,142
+Male,Neck,95+,38
+Male,Thorax,65-69,795
+Male,Thorax,70-74,986
+Male,Thorax,75-79,939
+Male,Thorax,80-84,1018
+Male,Thorax,85-89,833
+Male,Thorax,90-94,585
+Male,Thorax,95+,176
+Male,Abdomen/lower back/pelvis,65-69,462
+Male,Abdomen/lower back/pelvis,70-74,649
+Male,Abdomen/lower back/pelvis,75-79,690
+Male,Abdomen/lower back/pelvis,80-84,838
+Male,Abdomen/lower back/pelvis,85-89,919
+Male,Abdomen/lower back/pelvis,90-94,578
+Male,Abdomen/lower back/pelvis,95+,169
+Male,Upper arm,65-69,527
+Male,Upper arm,70-74,548
+Male,Upper arm,75-79,619
+Male,Upper arm,80-84,625
+Male,Upper arm,85-89,600
+Male,Upper arm,90-94,413
+Male,Upper arm,95+,139
+Male,Forearm,65-69,405
+Male,Forearm,70-74,433
+Male,Forearm,75-79,433
+Male,Forearm,80-84,547
+Male,Forearm,85-89,566
+Male,Forearm,90-94,476
+Male,Forearm,95+,161
+Male,Wrist and hand,65-69,192
+Male,Wrist and hand,70-74,224
+Male,Wrist and hand,75-79,272
+Male,Wrist and hand,80-84,305
+Male,Wrist and hand,85-89,268
+Male,Wrist and hand,90-94,174
+Male,Wrist and hand,95+,58
+Male,Hip and thigh,65-69,738
+Male,Hip and thigh,70-74,1011
+Male,Hip and thigh,75-79,1332
+Male,Hip and thigh,80-84,1756
+Male,Hip and thigh,85-89,1937
+Male,Hip and thigh,90-94,1332
+Male,Hip and thigh,95+,421
+Male,Knee and lower limb,65-69,730
+Male,Knee and lower limb,70-74,766
+Male,Knee and lower limb,75-79,660
+Male,Knee and lower limb,80-84,705
+Male,Knee and lower limb,85-89,554
+Male,Knee and lower limb,90-94,393
+Male,Knee and lower limb,95+,122
+Male,Ankle and foot,65-69,160
+Male,Ankle and foot,70-74,150
+Male,Ankle and foot,75-79,103
+Male,Ankle and foot,80-84,85
+Male,Ankle and foot,85-89,103
+Male,Ankle and foot,90-94,42
+Male,Ankle and foot,95+,8
+Male,"Other, multiple and incompletely specified body regions",65-69,3
+Male,"Other, multiple and incompletely specified body regions",70-74,4
+Male,"Other, multiple and incompletely specified body regions",75-79,6
+Male,"Other, multiple and incompletely specified body regions",80-84,7
+Male,"Other, multiple and incompletely specified body regions",85-89,7
+Male,"Other, multiple and incompletely specified body regions",90-94,3
+Male,"Other, multiple and incompletely specified body regions",95+,4
+Male,Injuries not described in terms of body location,65-69,41
+Male,Injuries not described in terms of body location,70-74,70
+Male,Injuries not described in terms of body location,75-79,70
+Male,Injuries not described in terms of body location,80-84,93
+Male,Injuries not described in terms of body location,85-89,114
+Male,Injuries not described in terms of body location,90-94,77
+Male,Injuries not described in terms of body location,95+,17
+Female,Head,65-69,1445
+Female,Head,70-74,2233
+Female,Head,75-79,3043
+Female,Head,80-84,4495
+Female,Head,85-89,4995
+Female,Head,90-94,4084
+Female,Head,95+,1595
+Female,Neck,65-69,105
+Female,Neck,70-74,124
+Female,Neck,75-79,162
+Female,Neck,80-84,238
+Female,Neck,85-89,296
+Female,Neck,90-94,209
+Female,Neck,95+,74
+Female,Thorax,65-69,441
+Female,Thorax,70-74,657
+Female,Thorax,75-79,865
+Female,Thorax,80-84,1122
+Female,Thorax,85-89,1272
+Female,Thorax,90-94,1002
+Female,Thorax,95+,357
+Female,Abdomen/lower back/pelvis,65-69,556
+Female,Abdomen/lower back/pelvis,70-74,879
+Female,Abdomen/lower back/pelvis,75-79,1149
+Female,Abdomen/lower back/pelvis,80-84,1597
+Female,Abdomen/lower back/pelvis,85-89,1924
+Female,Abdomen/lower back/pelvis,90-94,1537
+Female,Abdomen/lower back/pelvis,95+,627
+Female,Upper arm,65-69,1047
+Female,Upper arm,70-74,1387
+Female,Upper arm,75-79,1374
+Female,Upper arm,80-84,1556
+Female,Upper arm,85-89,1459
+Female,Upper arm,90-94,1017
+Female,Upper arm,95+,393
+Female,Forearm,65-69,1812
+Female,Forearm,70-74,1738
+Female,Forearm,75-79,1454
+Female,Forearm,80-84,1397
+Female,Forearm,85-89,1309
+Female,Forearm,90-94,987
+Female,Forearm,95+,405
+Female,Wrist and hand,65-69,252
+Female,Wrist and hand,70-74,280
+Female,Wrist and hand,75-79,297
+Female,Wrist and hand,80-84,303
+Female,Wrist and hand,85-89,299
+Female,Wrist and hand,90-94,225
+Female,Wrist and hand,95+,87
+Female,Hip and thigh,65-69,1069
+Female,Hip and thigh,70-74,1873
+Female,Hip and thigh,75-79,2419
+Female,Hip and thigh,80-84,3471
+Female,Hip and thigh,85-89,4077
+Female,Hip and thigh,90-94,3305
+Female,Hip and thigh,95+,1428
+Female,Knee and lower limb,65-69,1501
+Female,Knee and lower limb,70-74,1546
+Female,Knee and lower limb,75-79,1451
+Female,Knee and lower limb,80-84,1420
+Female,Knee and lower limb,85-89,1288
+Female,Knee and lower limb,90-94,1033
+Female,Knee and lower limb,95+,388
+Female,Ankle and foot,65-69,215
+Female,Ankle and foot,70-74,247
+Female,Ankle and foot,75-79,206
+Female,Ankle and foot,80-84,257
+Female,Ankle and foot,85-89,182
+Female,Ankle and foot,90-94,155
+Female,Ankle and foot,95+,46
+Female,"Other, multiple and incompletely specified body regions",65-69,3
+Female,"Other, multiple and incompletely specified body regions",70-74,4
+Female,"Other, multiple and incompletely specified body regions",75-79,3
+Female,"Other, multiple and incompletely specified body regions",80-84,6
+Female,"Other, multiple and incompletely specified body regions",85-89,8
+Female,"Other, multiple and incompletely specified body regions",90-94,6
+Female,"Other, multiple and incompletely specified body regions",95+,5
+Female,Injuries not described in terms of body location,65-69,25
+Female,Injuries not described in terms of body location,70-74,53
+Female,Injuries not described in terms of body location,75-79,75
+Female,Injuries not described in terms of body location,80-84,110
+Female,Injuries not described in terms of body location,85-89,163
+Female,Injuries not described in terms of body location,90-94,126
+Female,Injuries not described in terms of body location,95+,39
+Persons,Head,65-69,3009
+Persons,Head,70-74,4405
+Persons,Head,75-79,5649
+Persons,Head,80-84,7800
+Persons,Head,85-89,8521
+Persons,Head,90-94,6449
+Persons,Head,95+,2320
+Persons,Neck,65-69,228
+Persons,Neck,70-74,289
+Persons,Neck,75-79,360
+Persons,Neck,80-84,439
+Persons,Neck,85-89,487
+Persons,Neck,90-94,351
+Persons,Neck,95+,112
+Persons,Thorax,65-69,1237
+Persons,Thorax,70-74,1643
+Persons,Thorax,75-79,1804
+Persons,Thorax,80-84,2140
+Persons,Thorax,85-89,2105
+Persons,Thorax,90-94,1587
+Persons,Thorax,95+,533
+Persons,Abdomen/lower back/pelvis,65-69,1019
+Persons,Abdomen/lower back/pelvis,70-74,1528
+Persons,Abdomen/lower back/pelvis,75-79,1839
+Persons,Abdomen/lower back/pelvis,80-84,2435
+Persons,Abdomen/lower back/pelvis,85-89,2843
+Persons,Abdomen/lower back/pelvis,90-94,2115
+Persons,Abdomen/lower back/pelvis,95+,796
+Persons,Upper arm,65-69,1574
+Persons,Upper arm,70-74,1935
+Persons,Upper arm,75-79,1993
+Persons,Upper arm,80-84,2181
+Persons,Upper arm,85-89,2059
+Persons,Upper arm,90-94,1430
+Persons,Upper arm,95+,532
+Persons,Forearm,65-69,2217
+Persons,Forearm,70-74,2171
+Persons,Forearm,75-79,1887
+Persons,Forearm,80-84,1944
+Persons,Forearm,85-89,1875
+Persons,Forearm,90-94,1463
+Persons,Forearm,95+,566
+Persons,Wrist and hand,65-69,444
+Persons,Wrist and hand,70-74,504
+Persons,Wrist and hand,75-79,569
+Persons,Wrist and hand,80-84,608
+Persons,Wrist and hand,85-89,567
+Persons,Wrist and hand,90-94,399
+Persons,Wrist and hand,95+,145
+Persons,Hip and thigh,65-69,1807
+Persons,Hip and thigh,70-74,2884
+Persons,Hip and thigh,75-79,3751
+Persons,Hip and thigh,80-84,5227
+Persons,Hip and thigh,85-89,6014
+Persons,Hip and thigh,90-94,4637
+Persons,Hip and thigh,95+,1849
+Persons,Knee and lower limb,65-69,2231
+Persons,Knee and lower limb,70-74,2312
+Persons,Knee and lower limb,75-79,2111
+Persons,Knee and lower limb,80-84,2125
+Persons,Knee and lower limb,85-89,1842
+Persons,Knee and lower limb,90-94,1426
+Persons,Knee and lower limb,95+,510
+Persons,Ankle and foot,65-69,375
+Persons,Ankle and foot,70-74,397
+Persons,Ankle and foot,75-79,309
+Persons,Ankle and foot,80-84,342
+Persons,Ankle and foot,85-89,285
+Persons,Ankle and foot,90-94,197
+Persons,Ankle and foot,95+,54
+Persons,"Other, multiple and incompletely specified body regions",65-69,6
+Persons,"Other, multiple and incompletely specified body regions",70-74,8
+Persons,"Other, multiple and incompletely specified body regions",75-79,9
+Persons,"Other, multiple and incompletely specified body regions",80-84,13
+Persons,"Other, multiple and incompletely specified body regions",85-89,15
+Persons,"Other, multiple and incompletely specified body regions",90-94,9
+Persons,"Other, multiple and incompletely specified body regions",95+,9
+Persons,Injuries not described in terms of body location,65-69,66
+Persons,Injuries not described in terms of body location,70-74,123
+Persons,Injuries not described in terms of body location,75-79,145
+Persons,Injuries not described in terms of body location,80-84,203
+Persons,Injuries not described in terms of body location,85-89,277
+Persons,Injuries not described in terms of body location,90-94,203
+Persons,Injuries not described in terms of body location,95+,56

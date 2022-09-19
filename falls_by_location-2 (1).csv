@@ -1,0 +1,190 @@
+Gender,Location,Total,Age,Num_falls
+Male,Driveway,791,65-69,98
+Male,Driveway,791,70-74,125
+Male,Driveway,791,75-79,136
+Male,Driveway,791,80-84,158
+Male,Driveway,791,85-89,175
+Male,Driveway,791,90-94,79
+Male,Driveway,791,95+,20
+Male,Outdoor areas,4481,65-69,575
+Male,Outdoor areas,4481,70-74,765
+Male,Outdoor areas,4481,75-79,831
+Male,Outdoor areas,4481,80-84,873
+Male,Outdoor areas,4481,85-89,822
+Male,Outdoor areas,4481,90-94,499
+Male,Outdoor areas,4481,95+,116
+Male,Garage,591,65-69,83
+Male,Garage,591,70-74,100
+Male,Garage,591,75-79,103
+Male,Garage,591,80-84,126
+Male,Garage,591,85-89,97
+Male,Garage,591,90-94,65
+Male,Garage,591,95+,17
+Male,Bathroom,2962,65-69,311
+Male,Bathroom,2962,70-74,420
+Male,Bathroom,2962,75-79,472
+Male,Bathroom,2962,80-84,616
+Male,Bathroom,2962,85-89,630
+Male,Bathroom,2962,90-94,381
+Male,Bathroom,2962,95+,132
+Male,Kitchen,1413,65-69,125
+Male,Kitchen,1413,70-74,181
+Male,Kitchen,1413,75-79,221
+Male,Kitchen,1413,80-84,299
+Male,Kitchen,1413,85-89,284
+Male,Kitchen,1413,90-94,231
+Male,Kitchen,1413,95+,72
+Male,Bedroom,2465,65-69,227
+Male,Bedroom,2465,70-74,293
+Male,Bedroom,2465,75-79,411
+Male,Bedroom,2465,80-84,522
+Male,Bedroom,2465,85-89,538
+Male,Bedroom,2465,90-94,372
+Male,Bedroom,2465,95+,102
+Male,Laundry,98,65-69,10
+Male,Laundry,98,70-74,10
+Male,Laundry,98,75-79,13
+Male,Laundry,98,80-84,25
+Male,Laundry,98,85-89,28
+Male,Laundry,98,90-94,9
+Male,Laundry,98,95+,3
+Male,Indoor living areas,2428,65-69,236
+Male,Indoor living areas,2428,70-74,346
+Male,Indoor living areas,2428,75-79,398
+Male,Indoor living areas,2428,80-84,479
+Male,Indoor living areas,2428,85-89,505
+Male,Indoor living areas,2428,90-94,370
+Male,Indoor living areas,2428,95+,94
+Male,Other and unspecified in the home,9835,65-69,1131
+Male,Other and unspecified in the home,9835,70-74,1482
+Male,Other and unspecified in the home,9835,75-79,1640
+Male,Other and unspecified in the home,9835,80-84,1990
+Male,Other and unspecified in the home,9835,85-89,1896
+Male,Other and unspecified in the home,9835,90-94,1313
+Male,Other and unspecified in the home,9835,95+,383
+Female,Driveway,936,65-69,123
+Female,Driveway,936,70-74,156
+Female,Driveway,936,75-79,171
+Female,Driveway,936,80-84,205
+Female,Driveway,936,85-89,166
+Female,Driveway,936,90-94,91
+Female,Driveway,936,95+,24
+Female,Outdoor areas,6985,65-69,823
+Female,Outdoor areas,6985,70-74,1067
+Female,Outdoor areas,6985,75-79,1262
+Female,Outdoor areas,6985,80-84,1453
+Female,Outdoor areas,6985,85-89,1313
+Female,Outdoor areas,6985,90-94,848
+Female,Outdoor areas,6985,95+,219
+Female,Garage,437,65-69,47
+Female,Garage,437,70-74,91
+Female,Garage,437,75-79,78
+Female,Garage,437,80-84,108
+Female,Garage,437,85-89,68
+Female,Garage,437,90-94,36
+Female,Garage,437,95+,9
+Female,Bathroom,5598,65-69,529
+Female,Bathroom,5598,70-74,723
+Female,Bathroom,5598,75-79,862
+Female,Bathroom,5598,80-84,1125
+Female,Bathroom,5598,85-89,1180
+Female,Bathroom,5598,90-94,858
+Female,Bathroom,5598,95+,321
+Female,Kitchen,3631,65-69,295
+Female,Kitchen,3631,70-74,439
+Female,Kitchen,3631,75-79,524
+Female,Kitchen,3631,80-84,720
+Female,Kitchen,3631,85-89,843
+Female,Kitchen,3631,90-94,597
+Female,Kitchen,3631,95+,213
+Female,Bedroom,4522,65-69,321
+Female,Bedroom,4522,70-74,476
+Female,Bedroom,4522,75-79,639
+Female,Bedroom,4522,80-84,901
+Female,Bedroom,4522,85-89,1037
+Female,Bedroom,4522,90-94,813
+Female,Bedroom,4522,95+,335
+Female,Laundry,349,65-69,36
+Female,Laundry,349,70-74,39
+Female,Laundry,349,75-79,50
+Female,Laundry,349,80-84,87
+Female,Laundry,349,85-89,79
+Female,Laundry,349,90-94,44
+Female,Laundry,349,95+,14
+Female,Indoor living areas,4733,65-69,410
+Female,Indoor living areas,4733,70-74,592
+Female,Indoor living areas,4733,75-79,716
+Female,Indoor living areas,4733,80-84,950
+Female,Indoor living areas,4733,85-89,1025
+Female,Indoor living areas,4733,90-94,777
+Female,Indoor living areas,4733,95+,263
+Female,Other and unspecified in the home,17611,65-69,1757
+Female,Other and unspecified in the home,17611,70-74,2487
+Female,Other and unspecified in the home,17611,75-79,2832
+Female,Other and unspecified in the home,17611,80-84,3562
+Female,Other and unspecified in the home,17611,85-89,3523
+Female,Other and unspecified in the home,17611,90-94,2548
+Female,Other and unspecified in the home,17611,95+,902
+Persons,Driveway,1727,65-69,221
+Persons,Driveway,1727,70-74,281
+Persons,Driveway,1727,75-79,307
+Persons,Driveway,1727,80-84,363
+Persons,Driveway,1727,85-89,341
+Persons,Driveway,1727,90-94,170
+Persons,Driveway,1727,95+,44
+Persons,Outdoor areas,11466,65-69,1398
+Persons,Outdoor areas,11466,70-74,1832
+Persons,Outdoor areas,11466,75-79,2093
+Persons,Outdoor areas,11466,80-84,2326
+Persons,Outdoor areas,11466,85-89,2135
+Persons,Outdoor areas,11466,90-94,1347
+Persons,Outdoor areas,11466,95+,335
+Persons,Garage,1028,65-69,130
+Persons,Garage,1028,70-74,191
+Persons,Garage,1028,75-79,181
+Persons,Garage,1028,80-84,234
+Persons,Garage,1028,85-89,165
+Persons,Garage,1028,90-94,101
+Persons,Garage,1028,95+,26
+Persons,Bathroom,8560,65-69,840
+Persons,Bathroom,8560,70-74,1143
+Persons,Bathroom,8560,75-79,1334
+Persons,Bathroom,8560,80-84,1741
+Persons,Bathroom,8560,85-89,1810
+Persons,Bathroom,8560,90-94,1239
+Persons,Bathroom,8560,95+,453
+Persons,Kitchen,5044,65-69,420
+Persons,Kitchen,5044,70-74,620
+Persons,Kitchen,5044,75-79,745
+Persons,Kitchen,5044,80-84,1019
+Persons,Kitchen,5044,85-89,1127
+Persons,Kitchen,5044,90-94,828
+Persons,Kitchen,5044,95+,285
+Persons,Bedroom,6989,65-69,550
+Persons,Bedroom,6989,70-74,769
+Persons,Bedroom,6989,75-79,1050
+Persons,Bedroom,6989,80-84,1423
+Persons,Bedroom,6989,85-89,1575
+Persons,Bedroom,6989,90-94,1185
+Persons,Bedroom,6989,95+,437
+Persons,Laundry,447,65-69,46
+Persons,Laundry,447,70-74,49
+Persons,Laundry,447,75-79,63
+Persons,Laundry,447,80-84,112
+Persons,Laundry,447,85-89,107
+Persons,Laundry,447,90-94,53
+Persons,Laundry,447,95+,17
+Persons,Indoor living areas,7161,65-69,646
+Persons,Indoor living areas,7161,70-74,938
+Persons,Indoor living areas,7161,75-79,1114
+Persons,Indoor living areas,7161,80-84,1429
+Persons,Indoor living areas,7161,85-89,1530
+Persons,Indoor living areas,7161,90-94,1147
+Persons,Indoor living areas,7161,95+,357
+Persons,Other and unspecified in the home,27446,65-69,2888
+Persons,Other and unspecified in the home,27446,70-74,3969
+Persons,Other and unspecified in the home,27446,75-79,4472
+Persons,Other and unspecified in the home,27446,80-84,5552
+Persons,Other and unspecified in the home,27446,85-89,5419
+Persons,Other and unspecified in the home,27446,90-94,3861
+Persons,Other and unspecified in the home,27446,95+,1285

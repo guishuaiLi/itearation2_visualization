@@ -1,0 +1,169 @@
+Gender,Injury,Age,Num_falls
+Male,Fracture,65-69,2759
+Male,Fracture,70-74,3237
+Male,Fracture,75-79,3388
+Male,Fracture,80-84,3859
+Male,Fracture,85-89,3760
+Male,Fracture,90-94,2557
+Male,Fracture,95+,774
+Male,Dislocation,65-69,146
+Male,Dislocation,70-74,147
+Male,Dislocation,75-79,147
+Male,Dislocation,80-84,148
+Male,Dislocation,85-89,97
+Male,Dislocation,90-94,43
+Male,Dislocation,95+,15
+Male,Soft-Tissue Injury,65-69,337
+Male,Soft-Tissue Injury,70-74,353
+Male,Soft-Tissue Injury,75-79,292
+Male,Soft-Tissue Injury,80-84,283
+Male,Soft-Tissue Injury,85-89,232
+Male,Soft-Tissue Injury,90-94,140
+Male,Soft-Tissue Injury,95+,28
+Male,Open Wound,65-69,664
+Male,Open Wound,70-74,960
+Male,Open Wound,75-79,1222
+Male,Open Wound,80-84,1696
+Male,Open Wound,85-89,1889
+Male,Open Wound,90-94,1475
+Male,Open Wound,95+,506
+Male,Intracranial Injury,65-69,480
+Male,Intracranial Injury,70-74,625
+Male,Intracranial Injury,75-79,702
+Male,Intracranial Injury,80-84,829
+Male,Intracranial Injury,85-89,787
+Male,Intracranial Injury,90-94,466
+Male,Intracranial Injury,95+,142
+Male,Internal organ or vessel of trunk,65-69,70
+Male,Internal organ or vessel of trunk,70-74,125
+Male,Internal organ or vessel of trunk,75-79,91
+Male,Internal organ or vessel of trunk,80-84,81
+Male,Internal organ or vessel of trunk,85-89,69
+Male,Internal organ or vessel of trunk,90-94,28
+Male,Internal organ or vessel of trunk,95+,4
+Male,Superficial injury,65-69,476
+Male,Superficial injury,70-74,624
+Male,Superficial injury,75-79,829
+Male,Superficial injury,80-84,1022
+Male,Superficial injury,85-89,1114
+Male,Superficial injury,90-94,754
+Male,Superficial injury,95+,238
+Male,Other Unspecific injuries,65-69,808
+Male,Other Unspecific injuries,70-74,1105
+Male,Other Unspecific injuries,75-79,1255
+Male,Other Unspecific injuries,80-84,1566
+Male,Other Unspecific injuries,85-89,1667
+Male,Other Unspecific injuries,90-94,1116
+Male,Other Unspecific injuries,95+,331
+Female,Fracture,65-69,5636
+Female,Fracture,70-74,6917
+Female,Fracture,75-79,7057
+Female,Fracture,80-84,8386
+Female,Fracture,85-89,8645
+Female,Fracture,90-94,6567
+Female,Fracture,95+,2623
+Female,Dislocation,65-69,201
+Female,Dislocation,70-74,243
+Female,Dislocation,75-79,221
+Female,Dislocation,80-84,255
+Female,Dislocation,85-89,202
+Female,Dislocation,90-94,103
+Female,Dislocation,95+,30
+Female,Soft-Tissue Injury,65-69,337
+Female,Soft-Tissue Injury,70-74,367
+Female,Soft-Tissue Injury,75-79,389
+Female,Soft-Tissue Injury,80-84,409
+Female,Soft-Tissue Injury,85-89,409
+Female,Soft-Tissue Injury,90-94,309
+Female,Soft-Tissue Injury,95+,97
+Female,Open Wound,65-69,528
+Female,Open Wound,70-74,851
+Female,Open Wound,75-79,1166
+Female,Open Wound,80-84,1763
+Female,Open Wound,85-89,2195
+Female,Open Wound,90-94,2116
+Female,Open Wound,95+,944
+Female,Intracranial Injury,65-69,344
+Female,Intracranial Injury,70-74,518
+Female,Intracranial Injury,75-79,628
+Female,Intracranial Injury,80-84,846
+Female,Intracranial Injury,85-89,863
+Female,Intracranial Injury,90-94,625
+Female,Intracranial Injury,95+,268
+Female,Internal organ or vessel of trunk,65-69,28
+Female,Internal organ or vessel of trunk,70-74,42
+Female,Internal organ or vessel of trunk,75-79,60
+Female,Internal organ or vessel of trunk,80-84,42
+Female,Internal organ or vessel of trunk,85-89,47
+Female,Internal organ or vessel of trunk,90-94,40
+Female,Internal organ or vessel of trunk,95+,7
+Female,Superficial injury,65-69,476
+Female,Superficial injury,70-74,823
+Female,Superficial injury,75-79,1206
+Female,Superficial injury,80-84,1745
+Female,Superficial injury,85-89,1985
+Female,Superficial injury,90-94,1668
+Female,Superficial injury,95+,641
+Female,Other Unspecific injuries,65-69,921
+Female,Other Unspecific injuries,70-74,1259
+Female,Other Unspecific injuries,75-79,1770
+Female,Other Unspecific injuries,80-84,2525
+Female,Other Unspecific injuries,85-89,2926
+Female,Other Unspecific injuries,90-94,2256
+Female,Other Unspecific injuries,95+,834
+Persons,Fracture,65-69,8397
+Persons,Fracture,70-74,10154
+Persons,Fracture,75-79,10445
+Persons,Fracture,80-84,12245
+Persons,Fracture,85-89,12405
+Persons,Fracture,90-94,9124
+Persons,Fracture,95+,3397
+Persons,Dislocation,65-69,347
+Persons,Dislocation,70-74,390
+Persons,Dislocation,75-79,368
+Persons,Dislocation,80-84,403
+Persons,Dislocation,85-89,299
+Persons,Dislocation,90-94,146
+Persons,Dislocation,95+,45
+Persons,Soft-Tissue Injury,65-69,674
+Persons,Soft-Tissue Injury,70-74,720
+Persons,Soft-Tissue Injury,75-79,681
+Persons,Soft-Tissue Injury,80-84,692
+Persons,Soft-Tissue Injury,85-89,641
+Persons,Soft-Tissue Injury,90-94,449
+Persons,Soft-Tissue Injury,95+,125
+Persons,Open Wound,65-69,1192
+Persons,Open Wound,70-74,1811
+Persons,Open Wound,75-79,2388
+Persons,Open Wound,80-84,3459
+Persons,Open Wound,85-89,4084
+Persons,Open Wound,90-94,3591
+Persons,Open Wound,95+,1450
+Persons,Intracranial Injury,65-69,824
+Persons,Intracranial Injury,70-74,1143
+Persons,Intracranial Injury,75-79,1330
+Persons,Intracranial Injury,80-84,1675
+Persons,Intracranial Injury,85-89,1650
+Persons,Intracranial Injury,90-94,1091
+Persons,Intracranial Injury,95+,410
+Persons,Internal organ or vessel of trunk,65-69,98
+Persons,Internal organ or vessel of trunk,70-74,167
+Persons,Internal organ or vessel of trunk,75-79,151
+Persons,Internal organ or vessel of trunk,80-84,123
+Persons,Internal organ or vessel of trunk,85-89,116
+Persons,Internal organ or vessel of trunk,90-94,68
+Persons,Internal organ or vessel of trunk,95+,11
+Persons,Superficial injury,65-69,952
+Persons,Superficial injury,70-74,1447
+Persons,Superficial injury,75-79,2035
+Persons,Superficial injury,80-84,2767
+Persons,Superficial injury,85-89,3099
+Persons,Superficial injury,90-94,2422
+Persons,Superficial injury,95+,879
+Persons,Other Unspecific injuries,65-69,1729
+Persons,Other Unspecific injuries,70-74,2364
+Persons,Other Unspecific injuries,75-79,3025
+Persons,Other Unspecific injuries,80-84,4091
+Persons,Other Unspecific injuries,85-89,4593
+Persons,Other Unspecific injuries,90-94,3372
+Persons,Other Unspecific injuries,95+,1165
